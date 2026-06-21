@@ -3,7 +3,7 @@
 A free, client-side password generator. Choose length and character types (uppercase, lowercase, numbers, symbols) and get a cryptographically random password instantly — no signup, no server, no data leaves your browser.
 
 ## Live Demo
-(Add your Vercel URL here after deploying)
+(https://password-generator31.vercel.app/)
 
 ## Author
 Sapna Maurya — io5.sapnamaurya@gmail.com
